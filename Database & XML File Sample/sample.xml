@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <contact>
+        <name>John Doe</name>
+        <phone>+90 333 8859342</phone>
+        <email>john@example.com</email>
+        <address>123 Main St, City A</address>
+    </contact>
+    <contact>
+        <name>Jane Smith</name>
+        <phone>+91 987 6543210</phone>
+        <email>jane@example.com</email>
+        <address>456 Elm St, City B</address>
+    </contact>
+    <contact>
+        <name>Michael Johnson</name>
+        <phone>+44 203 1234567</phone>
+        <email>michael@example.com</email>
+        <address>789 Oak St, City C</address>
+    </contact>
+    <contact>
+        <name>Emma Williams</name>
+        <phone>+61 423 876543</phone>
+        <email>emma@example.com</email>
+        <address>101 Pine St, City D</address>
+    </contact>
+    <contact>
+        <name>Olivia Brown</name>
+        <phone>+49 151 23456789</phone>
+        <email>olivia@example.com</email>
+        <address>202 Cedar St, City E</address>
+    </contact>
+    <contact>
+        <name>Liam Davis</name>
+        <phone>+1 555 1234567</phone>
+        <email>liam@example.com</email>
+        <address>303 Birch St, City F</address>
+    </contact>
+    <contact>
+        <name>Noah Wilson</name>
+        <phone>+33 6 12345678</phone>
+        <email>noah@example.com</email>
+        <address>404 Maple St, City G</address>
+    </contact>
+    <contact>
+        <name>Ava Moore</name>
+        <phone>+81 80 1234 5678</phone>
+        <email>ava@example.com</email>
+        <address>505 Walnut St, City H</address>
+    </contact>
+    <contact>
+        <name>Isabella Taylor</name>
+        <phone>+82 10 9876 5432</phone>
+        <email>isabella@example.com</email>
+        <address>606 Chestnut St, City I</address>
+    </contact>
+    <contact>
+        <name>Elijah Anderson</name>
+        <phone>+91 81234 56789</phone>
+        <email>elijah@example.com</email>
+        <address>707 Poplar St, City J</address>
+    </contact>
+    <contact>
+        <name>Sophia Martinez</name>
+        <phone>+55 21 98765 4321</phone>
+        <email>sophia@example.com</email>
+        <address>808 Cypress St, City K</address>
+    </contact>
+    <contact>
+        <name>James Clark</name>
+        <phone>+39 347 1234567</phone>
+        <email>james@example.com</email>
+        <address>909 Spruce St, City L</address>
+    </contact>
+    <contact>
+        <name>Benjamin Lewis</name>
+        <phone>+66 81 234 5678</phone>
+        <email>benjamin@example.com</email>
+        <address>1010 Ash St, City M</address>
+    </contact>
+    <contact>
+        <name>Mia Walker</name>
+        <phone>+31 6 12345678</phone>
+        <email>mia@example.com</email>
+        <address>1111 Redwood St, City N</address>
+    </contact>
+    <contact>
+        <name>Lucas Hall</name>
+        <phone>+86 138 00138000</phone>
+        <email>lucas@example.com</email>
+        <address>1212 Magnolia St, City O</address>
+    </contact>
+</contacts>
